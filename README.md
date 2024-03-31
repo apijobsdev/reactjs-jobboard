@@ -67,7 +67,7 @@ Open a new terminal and install react with the command below.
 This part will have the following features: a search bar for searching for a job and the list of all jobs
 Navigate to src/pages, open app.js in any code editor, paste the following code, and then save it.
 
-code
+
 ```
 import React, { useEffect, useState } from 'react';
 import './App.css';
@@ -138,7 +138,6 @@ export default App;
 Next, let's add style to the application. Inside the src folder, create a style.css file and add the following:
 
 Style
-
 
 ```
 
