@@ -12,7 +12,7 @@ Strapi is an open-source headless CMS based on Node.js, where you can host and m
 
 React is also an open-source JavaScript front-end framework for creating interactive user interfaces. React allows developers to create reusable components that, when combined, form the entire application user interface.
 
-In this tutorial, you will learn about Strapi and walk through a step-by-step guide on creating a complete job board website with React and Strapi.
+In this tutorial, you will learn about apijobs and walk through a step-by-step guide on creating a complete job board website with React and apijobs.
 
 
 # Goal
@@ -30,17 +30,25 @@ Npm or Yarn
 You should also be familiar with React.js.
 
 
-# Create a apijobs account ( free and takes 5 min max)
-Set up Strapi on our local machine using Strapi CLI (Command Line Interface). In your terminal, navigate to the folder where you wish to install Strapi. Run the command below.
+# Creating an apijobs Account
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+To access job listings and integrate them into your job board, you need to create an account with apijobs.dev. Follow the steps below to set up your account and obtain your API key, which you'll use to fetch data from apijobs.dev.
 
+1. **Sign Up:** Go to [apijobs.dev](https://apijobs.dev) and sign up for an account. The process is straightforward and takes no more than 5 minutes.
 
-and subscribe at the free plan
+2. **Choose a Plan:** While signing up, select the free plan. This plan should suffice for the tutorial's scope and basic development/testing purposes.
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+3. **API Key:** After registration, you'll receive an `X-RapidAPI-Key`. This key is essential for making API requests and will be used in your job board application to fetch job data.
 
-and then you should get your X-RapidAPI-Key : 'X-RapidAPI-Key': 'aa177eff32msha25866ca3dc006ep17131bjsnd99177e44e3c',
+    ![Screenshot of API key confirmation](https://bank.cellar-c2.services.clever-cloud.com/file/project/479aefcf7cbbd6fcce4a9ef1376c9d51/rapidapi.png.png)
+
+4. **Verification:** Ensure your account is active and verified to avoid any disruptions while accessing the apijobs API.
+
+5. **Subscription Confirmation:** After subscribing to the free plan, you should see a confirmation similar to the image below. It indicates that you're all set to use the apijobs API.
+
+    ![Screenshot of subscription confirmation](https://bank.cellar-c2.services.clever-cloud.com/file/project/89ae32cfb85966e9a593e93c2a522a7b/Screenshot%202024-03-31%20at%2019.14.33.png.png)
+
+With your apijobs account ready and your API key in hand, you're now set to integrate apijobs API calls into your job board application.
 
 
 
@@ -124,7 +132,6 @@ function App() {
 
 export default App;
 
-
 ```
 
 
@@ -134,6 +141,7 @@ Style
 
 
 ```
+
 .app {
   font-family: 'Arial', sans-serif;
   color: #333;
@@ -203,8 +211,19 @@ Style
 }
 ```
 
+# Tutorial Completion and Results
+
+Congratulations on completing the tutorial! By now, you should have a fully functional job board application. The screenshot below represents the final result of your efforts, showcasing the operational job board interface where users can interact with the job listings fetched from the apijobs API.
+
+![Final Result of the Job Board Tutorial](https://bank.cellar-c2.services.clever-cloud.com/file/project/5f1fdacc4c5d29cf5034321536f3cc7b/Screenshot%202024-03-31%20at%2019.59.18.png.png)
+
+This image illustrates the successful integration of various components of your application, including the front-end built with React and the back-end powered by apijobs API. It's a testament to your ability to follow the steps outlined in the tutorial and implement a practical, interactive web application.
+
+Take a moment to review the features demonstrated in the screenshot. It should display a list of job vacancies, a search bar for filtering jobs, and possibly other functionalities you've implemented. If your application looks different, revisit the tutorial steps to ensure all aspects are correctly implemented.
+
+With this foundation, you can now explore further enhancements, like adding more sophisticated filters, improving the UI/UX design, or integrating additional APIs to enrich the job board's functionality.
+
 
 # Conclusion
 Now we have successfully built a complete job board website from scratch.
 This tutorial explains what apijobs is, how to get started and how to use it with React to build a complete job board application.
-
