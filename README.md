@@ -34,6 +34,7 @@ You should also be familiar with React.js.
 
 To access job listings and integrate them into your job board, you need to create an account with apijobs.dev. Follow the steps below to set up your account and obtain your API key, which you'll use to fetch data from apijobs.dev.
 
+
 1. **Sign Up:** Go to [apijobs.dev](https://apijobs.dev) and sign up for an account. The process is straightforward and takes no more than 5 minutes.
 
 2. **Choose a Plan:** While signing up, select the free plan. This plan should suffice for the tutorial's scope and basic development/testing purposes.
@@ -222,6 +223,8 @@ Take a moment to review the features demonstrated in the screenshot. It should d
 
 With this foundation, you can now explore further enhancements, like adding more sophisticated filters, improving the UI/UX design, or integrating additional APIs to enrich the job board's functionality.
 
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://bank.cellar-c2.services.clever-cloud.com/file/project/5f1fdacc4c5d29cf5034321536f3cc7b/Screenshot%202024-03-31%20at%2019.59.18.png.png)
 
 # Conclusion
 Now we have successfully built a complete job board website from scratch.
