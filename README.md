@@ -223,9 +223,6 @@ Take a moment to review the features demonstrated in the screenshot. It should d
 
 With this foundation, you can now explore further enhancements, like adding more sophisticated filters, improving the UI/UX design, or integrating additional APIs to enrich the job board's functionality.
 
-
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://bank.cellar-c2.services.clever-cloud.com/file/project/5f1fdacc4c5d29cf5034321536f3cc7b/Screenshot%202024-03-31%20at%2019.59.18.png.png)
-
 # Conclusion
 Now we have successfully built a complete job board website from scratch.
 This tutorial explains what apijobs is, how to get started and how to use it with React to build a complete job board application.
