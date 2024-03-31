@@ -46,7 +46,7 @@ You should also be familiar with React.js.
 To access job listings and integrate them into your job board, you need to create an account with apijobs.dev. Follow the steps below to set up your account and obtain your API key, which you'll use to fetch data from apijobs.dev.
 
 
-1. **Sign Up:** Go to [apijobs.dev in rapid api]([https://apijobs.dev](https://rapidapi.com/apijobs-apijobs-default/api/apijob-job-searching-api/]) and sign up for an account. The process is straightforward and takes no more than 5 minutes.
+1. **Sign Up:** Go to [apijobs.dev on RapidAPI](https://rapidapi.com/apijobs-apijobs-default/api/apijob-job-searching-api/) and sign up for an account. The process is straightforward and takes no more than 5 minutes.
 
 2. **Choose a Plan:** While signing up, select the free plan. This plan should suffice for the tutorial's scope and basic development/testing purposes.
 
