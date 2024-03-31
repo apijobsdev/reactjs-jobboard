@@ -33,12 +33,12 @@ You should also be familiar with React.js.
 # Create a apijobs account ( free and takes 5 min max)
 Set up Strapi on our local machine using Strapi CLI (Command Line Interface). In your terminal, navigate to the folder where you wish to install Strapi. Run the command below.
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://bank.cellar-c2.services.clever-cloud.com/file/project/479aefcf7cbbd6fcce4a9ef1376c9d51/rapidapi.png.png)
 
 
 and subscribe at the free plan
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://bank.cellar-c2.services.clever-cloud.com/file/project/89ae32cfb85966e9a593e93c2a522a7b/Screenshot%202024-03-31%20at%2019.14.33.png.png)
 
 and then you should get your X-RapidAPI-Key : 'X-RapidAPI-Key': 'my-api-key',
 
@@ -203,6 +203,8 @@ Style
 }
 ```
 
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://bank.cellar-c2.services.clever-cloud.com/file/project/5f1fdacc4c5d29cf5034321536f3cc7b/Screenshot%202024-03-31%20at%2019.59.18.png.png)
 
 # Conclusion
 Now we have successfully built a complete job board website from scratch.
