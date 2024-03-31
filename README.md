@@ -40,7 +40,7 @@ and subscribe at the free plan
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
-and then you should get your X-RapidAPI-Key : 'X-RapidAPI-Key': 'aa177eff32msha25866ca3dc006ep17131bjsnd99177e44e3c',
+and then you should get your X-RapidAPI-Key : 'X-RapidAPI-Key': 'my-api-key',
 
 
 
